@@ -1,0 +1,5 @@
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.csproj.AssemblyReference.cache
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.GeneratedMSBuildEditorConfig.editorconfig
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.AssemblyInfoInputs.cache
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.AssemblyInfo.cs
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.csproj.CoreCompileInputs.cache
