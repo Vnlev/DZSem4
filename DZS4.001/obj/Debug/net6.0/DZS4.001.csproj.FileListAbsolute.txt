@@ -3,3 +3,13 @@ E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debu
 E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.AssemblyInfoInputs.cache
 E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.AssemblyInfo.cs
 E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.csproj.CoreCompileInputs.cache
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\bin\Debug\net6.0\DZS4.001.exe
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\bin\Debug\net6.0\DZS4.001.deps.json
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\bin\Debug\net6.0\DZS4.001.runtimeconfig.json
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\bin\Debug\net6.0\DZS4.001.dll
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\bin\Debug\net6.0\DZS4.001.pdb
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.dll
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\refint\DZS4.001.dll
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.pdb
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\DZS4.001.genruntimeconfig.cache
+E:\А. КУРС\Курс Разработчик\DZS4.1\DZS4.01\DZS4.001\obj\Debug\net6.0\ref\DZS4.001.dll
